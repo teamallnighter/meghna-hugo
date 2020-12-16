@@ -13,9 +13,9 @@ html {
 }
 
 body {
-  background-color: #353b43;
+  background-color: #ffffff;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #000000;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #000000;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color: #0b6ac4;
 }
 
 /*=================================================================
@@ -48,7 +48,7 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #0a22f7;
 }
 
 ::selection {
@@ -65,7 +65,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: rgb(84, 17, 240);
   transition: all .3s ease-in 0s;
 }
 
@@ -82,7 +82,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #e25e35;
 }
 
 .kill-margin-bottom {
@@ -99,7 +99,7 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: #fff;
+  color: rgb(223, 119, 33);
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
