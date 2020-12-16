@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Get A quote
-    link: "#services"
+    link: "#cta"
